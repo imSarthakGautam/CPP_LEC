@@ -2,7 +2,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
     //  assigning an int value to PTHREAD_NORMAL_MUTEX_INITIALIZER
