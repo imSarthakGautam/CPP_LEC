@@ -22,10 +22,12 @@ int main(){
     cout<<"Student's Address: ";
     cin>>stdnt.address;
     cout<<"\n";
+    
     cout<<"----STUDENT'S PROFILE---- "<<endl;
     cout<<"Student's Name = "<<stdnt.name<<endl;
     cout<<"Student's Roll No = "<<stdnt.roll<<endl;
     cout<<"Student's Address = "<<stdnt.address<<endl;
+     cout<<"\n";
 
     return 0;
 }
