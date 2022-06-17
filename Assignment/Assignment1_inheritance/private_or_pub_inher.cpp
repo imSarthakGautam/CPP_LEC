@@ -10,6 +10,7 @@ class A
     public:
     int pubdataA;
 };
+
 class B: public A //publicly derived
 {
     public:
