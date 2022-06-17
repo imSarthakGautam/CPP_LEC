@@ -15,7 +15,8 @@ class BaseTwo{
     public:
         void display(){
             cout<<"I am from BaseTwo"<<endl;
-        }
+  
+    }
 };
 
 class Derived: public BaseOne,public BaseTwo{
