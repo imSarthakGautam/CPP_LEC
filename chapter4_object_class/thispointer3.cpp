@@ -75,7 +75,7 @@ int main(void) {
    } else {
       cout << "Box2 is equal to or larger than Box1" <<endl;
    }
-   
+  
    return 0;
 }
 */
