@@ -10,7 +10,7 @@ public :
     {
         int a=0;
         int b=0;
-     
+    
     }
 
      binary ( int x, int y)
