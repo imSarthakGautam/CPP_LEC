@@ -13,6 +13,7 @@ class count{
             ++value;
         }
 
+    
         void display(){
             cout<<"The value of 'value' is: "<<value<<endl;
         }
