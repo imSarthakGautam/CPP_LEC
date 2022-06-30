@@ -1,3 +1,5 @@
+// When a function is made virtual it allows a program to decide at runtime which function to call
+// BASED ON THE TYPE OF THE OBECT POINTED BY THE POINTER rather than TYPE OF THE POINTER itself 
 #include <iostream>
 using namespace std;
 
@@ -13,7 +15,7 @@ class Shape
         length = b;
     }
 
-void virtual Area()
+void Area() // void virtual Area()- for with virtual;
 {
 cout<<"The area of given shape is : "<<endl;
 
