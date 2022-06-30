@@ -27,7 +27,6 @@ u1.c = -u1.c;
 
     };
 
-
 int main()
 {
     unaryFriend f1;
