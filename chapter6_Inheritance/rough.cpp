@@ -12,7 +12,6 @@ class A {
         addn = x+y;
         cout<<"Add="<<addn;
     }
-
 };
 
 int main()
