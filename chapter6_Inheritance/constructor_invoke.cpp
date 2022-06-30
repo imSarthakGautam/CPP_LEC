@@ -21,7 +21,7 @@ class child : public Parent{
      cout<<"Inside derived class constructor"<<endl;
  }
  ~child(){
-     cout<<"Inside derived class desstructor"<<endl;
+     cout<<"Inside derived class destructor"<<endl;
  }
 };
 
@@ -30,4 +30,5 @@ int main()
 {
     child obj1;
 return 0;
+
 }

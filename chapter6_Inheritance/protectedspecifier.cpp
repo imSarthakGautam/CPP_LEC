@@ -3,7 +3,7 @@
 using namespace std;
 
 class Parent{
-    //declaring a protected data member
+    //declaring a protected data member.
     protected:
         string id_protected;
 };
