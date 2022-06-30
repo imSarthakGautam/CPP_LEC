@@ -18,7 +18,6 @@ class Derived : public Base
  }
 };
 
-
 int main()
 {
     Derived d1,d2;
