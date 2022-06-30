@@ -10,7 +10,8 @@ class base{
 
 class derived: public base{
     public:
-        derived(){
+        derived()
+        {
             cout<<"derived constructor from derived class";
         }
 };

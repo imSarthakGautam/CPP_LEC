@@ -18,6 +18,7 @@ class derived: public base{
         }
 };
 
-int main(){
+int main()
+{
     derived d;
 }
