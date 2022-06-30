@@ -6,7 +6,7 @@ value2
 getdata()
 mean(Sample)
 
-*/
+*/ 
 
 #include<iostream>
 using namespace std;
