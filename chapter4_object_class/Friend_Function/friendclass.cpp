@@ -28,4 +28,5 @@ int main()
     //creating an object of myClass2 and passing the object of myClass1 as parameter
 
 return 0;
+    
 }

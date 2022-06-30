@@ -16,7 +16,6 @@ void display()
 {
     cout<<"The name is Sarthak Gautam";
 }
-
 };
 
 int main()
