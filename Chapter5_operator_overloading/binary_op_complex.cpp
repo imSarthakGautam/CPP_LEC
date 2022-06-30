@@ -34,7 +34,6 @@ void display(){
     cout << " the output is "<< real <<" + i"<<img<<endl;
 
 }
-
 };
 
 int main()
