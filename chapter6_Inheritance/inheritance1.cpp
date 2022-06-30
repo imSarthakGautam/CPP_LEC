@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-class Account {
+class Account 
+{
     public:
     float salary=50000;
 };
