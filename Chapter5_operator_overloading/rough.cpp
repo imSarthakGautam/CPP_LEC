@@ -9,8 +9,9 @@ class rough{
     int main(){
         rough r;
         cout <<"Primitive type increment"<< r.a++ <<endl;
-        cout<<" User defined type increment"<<r++;
+        cout<<" User defined type increment"<<r++; //error: ++ operator doesn't match these operands because the datatype is not primitive
     return 0;
     }
+
 // Error deetected : no operator "++" matches these operands &
 // no 'operator++(int)' declared for postfix '++' [-fpermissive]
