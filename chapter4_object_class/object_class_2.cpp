@@ -36,8 +36,6 @@ return(length*breadth*height);
 };
 
 
-
-
 int main ()
 {
     room room1,room2;
