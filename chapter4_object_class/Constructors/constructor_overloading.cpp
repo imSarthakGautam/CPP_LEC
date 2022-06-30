@@ -24,7 +24,6 @@ class Account{
             cout<<"\nBalance = "<<balance<<endl;
         }
 }; //end of class definition
-
 int main(){
     Account acc1;
     Account acc2(100);

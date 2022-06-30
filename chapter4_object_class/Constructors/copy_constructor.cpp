@@ -11,6 +11,7 @@ class wall {
     public:
     wall ( double len, double hgt){
 
+        
     // initialize private variables
     length = len;
     height= hgt;

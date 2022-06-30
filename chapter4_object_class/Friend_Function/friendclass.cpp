@@ -23,7 +23,9 @@ class myclass2{
 int main()
 {
     myclass1 obj1(5);
+    //creating an object of myClass1 and passing the value of "a" as 5
     myclass2 obj2(obj1);
+    //creating an object of myClass2 and passing the object of myClass1 as parameter
 
 return 0;
 }

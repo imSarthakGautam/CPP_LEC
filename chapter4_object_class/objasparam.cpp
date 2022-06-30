@@ -18,7 +18,6 @@ int avg = (n.marks +m.marks)/2;
 cout<<"the average marks is"<<avg<<endl;
 }
 
-
 int main()
 {
 student n(50),m(60);
