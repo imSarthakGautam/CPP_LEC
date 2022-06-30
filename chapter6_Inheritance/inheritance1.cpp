@@ -19,6 +19,5 @@ int main()
     cout<<"The bonus is "<<p1.bonus<<endl;
     cout<<"The earning is "<<p1.salary +p1.bonus<<endl;
 
-
 return 0;
 }
