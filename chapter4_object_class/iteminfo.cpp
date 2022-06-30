@@ -21,6 +21,7 @@ class iteminfo
     }
 };
 
+
 int main()
 {
     iteminfo i1,i2;
