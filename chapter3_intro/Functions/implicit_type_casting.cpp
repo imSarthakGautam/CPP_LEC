@@ -10,7 +10,6 @@ char char_test;
 double num_double;
 
 
-
 //  impicit conversion
 //  assigning int value to a double variable
 

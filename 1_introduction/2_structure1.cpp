@@ -23,6 +23,7 @@ int main(){
     cout<<"Name: "<<student.name;
     cout<<"\n Address: "<<student.address;
     cout<<"\n Roll No: "<<student.roll;
+    
     return 0;
 }
 
