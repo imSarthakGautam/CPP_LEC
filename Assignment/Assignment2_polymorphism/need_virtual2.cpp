@@ -1,12 +1,12 @@
-// need_virtual1.cpp
-// neecessity of a virtual function
+//need_virtual2.cpp
+// need of virtual function
 
 #include<iostream>
 using namespace std;
 
 class Animal{
     public:
-        void display(){ //not virtual void diasplay
+        virtual void display(){
             cout<<"\n from base class animal";
         }
 };
@@ -42,19 +42,19 @@ int main(){
 
     return 0;
 }
-
-/* here we haven't made usee of virtual function 
+/* here we have made usee of virtual function 
 Terminal :
-
- from base class animal
- from base class animal
- from base class animal
-
-
- meanwhile when we use virtual function 
- terminal :
  
  from base class animal
  from derived class Cow
  from derived class Dog
+
+
+ meanwhile when we do not use virtual function 
+ terminal :
+ 
+ from base class animal
+ from base class animal
+ from base class animal
+
  */
