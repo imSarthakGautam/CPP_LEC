@@ -50,7 +50,6 @@ Terminal :
  from base class animal
  from base class animal
 
-
  meanwhile when we use virtual function 
  terminal :
  
