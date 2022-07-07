@@ -63,5 +63,4 @@ int main()
  virtual ~base()
 
 here destructor of derived class isn't called, i.e Non virtual destructor results in undefined behaviour
-
 */
