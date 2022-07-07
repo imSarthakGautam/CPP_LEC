@@ -1,5 +1,6 @@
 // arr_ptr_base.cpp
 // example of array pointer to base class object
+
 #include <iostream>
 using namespace std;
 
