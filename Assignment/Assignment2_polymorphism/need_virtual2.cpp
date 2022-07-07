@@ -25,7 +25,8 @@ class Dog: public Animal{
         }
 };
 
-int main(){
+int main()
+{
     Animal *panm; //pointer to base class
     Animal anm;
     Cow cw;
