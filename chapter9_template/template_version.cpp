@@ -1,5 +1,6 @@
 // Finding greater using template 
 #include <iostream>
+
 using namespace std;
 template < class T> 
 T find_max(T a, T b)
