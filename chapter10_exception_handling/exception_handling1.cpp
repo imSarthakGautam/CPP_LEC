@@ -30,6 +30,7 @@ int main(){
         // handle float exceptions here
     }
     
+    
     cout<<"After catch \n";
     return 0;
 }
