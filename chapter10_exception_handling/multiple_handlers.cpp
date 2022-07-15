@@ -47,7 +47,8 @@ int main()
 
         cout<<"Number popped: "<<s.pop()<<endl;
         cout<<"Number popped: "<<s.pop()<<endl;
-        // cout<<"Number popped: "<<s.pop()<<endl;
+        // cout<<"Number popped: "<<s.pop()<<endl; 
+        // IF 2 push 3 pop Exception :- Number popped: Exception: Stack is Empty
     }
 
 catch(Stack:: FULL){

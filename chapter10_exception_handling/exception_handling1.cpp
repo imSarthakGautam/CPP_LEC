@@ -8,7 +8,8 @@ throw
 #include<iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     float x = -1;
     cout<<"Before try \n";
     cout<<"---------- \n";
