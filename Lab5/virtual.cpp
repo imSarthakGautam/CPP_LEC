@@ -55,6 +55,7 @@ public:
     void display_area()    
     {
         cout << "Area of rectangle is " << (width * length) << endl;
+        
     }
 };
 
