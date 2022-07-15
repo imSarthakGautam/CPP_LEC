@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 class Stack{
     protected :
      int s[MAX];

@@ -1,4 +1,4 @@
-// NO object 
+// NO object
 
 #include <iostream>
 using namespace std;
