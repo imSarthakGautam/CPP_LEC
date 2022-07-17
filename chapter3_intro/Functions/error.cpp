@@ -1,4 +1,4 @@
-// 
+// Typecasting
 #include <iostream>
 using namespace std;
 
@@ -17,6 +17,5 @@ int main()
 {
      display(2);
      display(5.5);
-
 
 }
