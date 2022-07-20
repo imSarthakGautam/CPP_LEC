@@ -18,6 +18,7 @@ class area
 }
 };
 
+
 int main(){
     area a1;
       float speri , length1, length2, length3, area;

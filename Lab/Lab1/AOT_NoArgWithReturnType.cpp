@@ -18,7 +18,6 @@ float calcArea(){
     return area;
 }
 
-
 int main(){
     float area = calcArea();
     cout<<"The area of your triangle is : "<<area<<endl;

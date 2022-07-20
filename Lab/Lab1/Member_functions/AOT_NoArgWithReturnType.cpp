@@ -20,6 +20,7 @@ float calcArea(){
 }
 };
 
+
 int main(){
     area a1;
     float areaa = a1.calcArea();

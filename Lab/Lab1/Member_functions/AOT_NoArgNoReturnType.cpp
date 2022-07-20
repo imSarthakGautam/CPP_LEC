@@ -21,6 +21,7 @@ void calcArea(){
 }
 };
 
+
 int main(){
  area a1;
  a1.calcArea();

@@ -13,6 +13,7 @@ struct student
     string roll;
     string address;
 }stdnt;
+
 public:
 void input(){
     cout<<"---Enter the details of Student here----: "<<endl;

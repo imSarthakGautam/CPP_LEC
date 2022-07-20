@@ -18,6 +18,7 @@ class area{
     cout<<"The length of 3rd side is : "<<endl;
     cin>>length3;
 }
+
     
     void calcArea (){
     speri = (length1+length2+length3)/2;
