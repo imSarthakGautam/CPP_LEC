@@ -26,6 +26,7 @@ public:
         cout << "The area of triangle is " << area << endl;
     }
 };
+
 int main()
 {
     Area a;
