@@ -17,7 +17,6 @@ void calcArea(){
     area = sqrt(speri*(speri-length1)*(speri-length2)*(speri-length3));
     cout<<"The area of your triangle is : "<<area<<endl;
 }
-
 int main(){
     calcArea();
 }

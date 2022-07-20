@@ -17,3 +17,4 @@ int main(){
     cout<<"The area of your triangle is : "<<area<<endl;
     
 }
+

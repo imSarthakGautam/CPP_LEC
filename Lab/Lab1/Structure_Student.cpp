@@ -12,6 +12,7 @@ struct student
     string address;
 };
 
+
 int main(){
     student stdnt;
     cout<<"---Enter the details of Student here----: "<<endl;
