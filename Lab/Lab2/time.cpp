@@ -5,7 +5,6 @@ void sum(Time, Time): to add 2 different time
 void display(): to display the resultant time.
 */
 
-
 #include<iostream>
 using namespace std;
 

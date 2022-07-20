@@ -3,6 +3,7 @@
 [hint: use friend function] 
 */
 
+
 #include<iostream>
 using namespace std;
 

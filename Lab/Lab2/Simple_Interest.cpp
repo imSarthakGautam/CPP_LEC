@@ -10,7 +10,6 @@ class SimpleInterest
 {
 
 
-
    public:
         float principle,time,rate;
 float interest;

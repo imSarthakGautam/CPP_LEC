@@ -8,6 +8,7 @@ mean(Sample)
 
 */ 
 
+
 #include<iostream>
 using namespace std;
 
