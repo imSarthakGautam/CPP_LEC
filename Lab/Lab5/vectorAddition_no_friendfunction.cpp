@@ -5,6 +5,7 @@
 using namespace std;
 
 class Vector
+
 {
     private:
     float x,y,z;

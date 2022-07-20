@@ -18,6 +18,7 @@ public:
         cout << "The area of rectangle is " << length * breadth << endl;
     }
 
+
     void calcArea(double a, double b, double c)
     {
         double s, area;

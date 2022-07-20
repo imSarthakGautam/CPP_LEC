@@ -7,6 +7,7 @@ figures. Make display_area() as virtual function and redefine this function in t
 suit their requirements.
 */
 
+
 #include <iostream>
 using namespace std;
 

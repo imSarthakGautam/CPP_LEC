@@ -20,6 +20,7 @@ class increment
         a=temp;
     }
     
+    
     void display()
     {
         cout<<"\t";

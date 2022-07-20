@@ -42,6 +42,7 @@ float m2 = sqrt(C.r*C.r + C.i*C.i);
 return (m1 < m2 ? TRUE : FALSE);
 }
 
+
 Bool operator > (Complex C)
 {
 float m1 = sqrt(r*r + i*i);
