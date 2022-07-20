@@ -14,10 +14,10 @@ int feet, inches;
 public:
 void input()
 {
-cout<<"Enter the distance of point in feet:";
+cout<<"Enter the distance of point in feet : ";
 cin >> feet;
 
-cout<<"Enter the distance of point in inches:";
+cout<<"Enter the distance of point in inches : ";
 cin >> inches;
 }
 

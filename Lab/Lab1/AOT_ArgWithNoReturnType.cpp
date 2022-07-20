@@ -5,6 +5,7 @@
 #include<cmath>
 using namespace std;
 
+
 void calcArea(float speri , float length1, float length2, float length3) //Arguments
 {
     float area = sqrt(speri*(speri-length1)*(speri-length2)*(speri-length3));
