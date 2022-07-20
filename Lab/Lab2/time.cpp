@@ -8,6 +8,7 @@ void display(): to display the resultant time.
 #include<iostream>
 using namespace std;
 
+
 class Time{
     private:
         int hr,min,sec;
