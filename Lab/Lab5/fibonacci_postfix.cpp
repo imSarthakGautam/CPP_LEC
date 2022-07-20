@@ -25,6 +25,7 @@ class increment
         cout<<"\t";
         cout<<b;
     }
+    
 };
 
 int main()
