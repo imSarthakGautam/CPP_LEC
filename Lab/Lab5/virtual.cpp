@@ -16,6 +16,7 @@ class Shape
 protected:
     double width, length;
 
+
 public:
     void get_data()
     {
