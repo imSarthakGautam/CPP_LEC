@@ -7,6 +7,7 @@ The class master derives information from both account and admin classes
 objects.
 */
 
+
 #include <iostream>
 using namespace std;
 
