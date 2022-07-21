@@ -1,5 +1,4 @@
 // STream class to both read and write from/to files
-
 #include <iostream>
 #include <fstream>
 
