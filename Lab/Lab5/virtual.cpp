@@ -30,6 +30,7 @@ public:
     }
 };
 
+
 class Triangle : public Shape
 {
 public:

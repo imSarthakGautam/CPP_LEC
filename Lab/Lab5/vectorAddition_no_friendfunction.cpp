@@ -4,6 +4,7 @@
 #include<iostream>
 using namespace std;
 
+
 class Vector
 
 {
@@ -20,7 +21,7 @@ class Vector
         cout<<"Enter z component : ";
         cin>>z;
     }
-    
+
 
     Vector operator +(Vector v)
 {
