@@ -7,6 +7,7 @@ class Animal
 {
     public :
     
+    
     virtual void move()=0; // Pure Virtual Function i.e. one that has no body
     virtual void eat();
     
